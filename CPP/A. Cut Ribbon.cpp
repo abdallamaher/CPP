@@ -4,7 +4,6 @@ With OOP style.
 https://codeforces.com/contest/189/problem/A
 */
 
-#define _CRT_SECURE_NO_WvNINGS
 #include <bits/stdc++.h>
 using namespace std;
 #define ll long long
